@@ -15,7 +15,7 @@ Although there are many high-level API available, performing the text cleaning m
 - Tokenization
 
 
-NLP:
+N L P:
 ---
 
 - Sentiment Analysis
