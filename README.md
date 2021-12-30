@@ -23,4 +23,5 @@ N L P:
 - Named Entity Recognition (NER)
 - TF-IDF Scoring
 - Cosine Similarity
+- MinHashing
 - WordEmbedding
