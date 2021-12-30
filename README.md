@@ -19,8 +19,8 @@ N L P:
 ---
 
 - Sentiment Analysis
-- Part-of_Speech Tagging (POS-Tagging)
-- Named Entity Recognition (NER)
+- Part-of-Speech-Tagging (POS-Tagging)
+- Named-Entity-Recognition (NER)
 - TF-IDF Scoring
 - Cosine Similarity
 - MinHashing
