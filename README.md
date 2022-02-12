@@ -25,3 +25,4 @@ N L P:
 - Cosine Similarity
 - MinHashing
 - WordEmbedding
+- Latent Semantic Analysis (LSA)
